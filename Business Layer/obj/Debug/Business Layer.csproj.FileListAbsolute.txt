@@ -1,0 +1,22 @@
+D:\Adnane\Programing Advices\Course19\DVLD Project\DVLD Project\Business Layer\bin\Debug\Business Layer.dll
+D:\Adnane\Programing Advices\Course19\DVLD Project\DVLD Project\Business Layer\bin\Debug\Business Layer.pdb
+D:\Adnane\Programing Advices\Course19\DVLD Project\DVLD Project\Business Layer\bin\Debug\Data Access Layer.dll
+D:\Adnane\Programing Advices\Course19\DVLD Project\DVLD Project\Business Layer\bin\Debug\Data Access Layer.pdb
+D:\Adnane\Programing Advices\Course19\DVLD Project\DVLD Project\Business Layer\obj\Debug\Business Layer.csproj.AssemblyReference.cache
+D:\Adnane\Programing Advices\Course19\DVLD Project\DVLD Project\Business Layer\obj\Debug\Business_Layer.Properties.Resources.resources
+D:\Adnane\Programing Advices\Course19\DVLD Project\DVLD Project\Business Layer\obj\Debug\Business Layer.csproj.GenerateResource.cache
+D:\Adnane\Programing Advices\Course19\DVLD Project\DVLD Project\Business Layer\obj\Debug\Business Layer.csproj.CoreCompileInputs.cache
+D:\Adnane\Programing Advices\Course19\DVLD Project\DVLD Project\Business Layer\obj\Debug\Business Layer.csproj.CopyComplete
+D:\Adnane\Programing Advices\Course19\DVLD Project\DVLD Project\Business Layer\obj\Debug\Business Layer.dll
+D:\Adnane\Programing Advices\Course19\DVLD Project\DVLD Project\Business Layer\obj\Debug\Business Layer.pdb
+D:\Adnane\Programing Advices\Course19\DVLD Project\Business Layer\bin\Debug\Business Layer.dll
+D:\Adnane\Programing Advices\Course19\DVLD Project\Business Layer\bin\Debug\Business Layer.pdb
+D:\Adnane\Programing Advices\Course19\DVLD Project\Business Layer\bin\Debug\Data Access Layer.dll
+D:\Adnane\Programing Advices\Course19\DVLD Project\Business Layer\bin\Debug\Data Access Layer.pdb
+D:\Adnane\Programing Advices\Course19\DVLD Project\Business Layer\obj\Debug\Business Layer.csproj.AssemblyReference.cache
+D:\Adnane\Programing Advices\Course19\DVLD Project\Business Layer\obj\Debug\Business_Layer.Properties.Resources.resources
+D:\Adnane\Programing Advices\Course19\DVLD Project\Business Layer\obj\Debug\Business Layer.csproj.GenerateResource.cache
+D:\Adnane\Programing Advices\Course19\DVLD Project\Business Layer\obj\Debug\Business Layer.csproj.CoreCompileInputs.cache
+D:\Adnane\Programing Advices\Course19\DVLD Project\Business Layer\obj\Debug\Business Layer.csproj.CopyComplete
+D:\Adnane\Programing Advices\Course19\DVLD Project\Business Layer\obj\Debug\Business Layer.dll
+D:\Adnane\Programing Advices\Course19\DVLD Project\Business Layer\obj\Debug\Business Layer.pdb
